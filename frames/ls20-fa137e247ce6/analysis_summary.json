@@ -1,0 +1,25 @@
+{
+  "game_session": {
+    "game_id": "ls20-fa137e247ce6",
+    "total_frames": 81,
+    "session_duration_seconds": 42.563,
+    "average_fps": 1.903061344360125,
+    "start_time": "2025-11-04 12:22:49.704000",
+    "end_time": "2025-11-04 12:23:32.267000"
+  },
+  "game_metrics": {
+    "states_encountered": [
+      "NOT_FINISHED"
+    ],
+    "final_score": "0",
+    "max_score": "0",
+    "score_variance": 0.0,
+    "frames_with_visual_data": "81"
+  },
+  "action_analysis": {
+    "total_unique_action_sets": 1,
+    "avg_actions_per_frame": 4.0,
+    "min_actions_per_frame": "4",
+    "max_actions_per_frame": "4"
+  }
+}

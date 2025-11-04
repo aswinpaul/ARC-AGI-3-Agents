@@ -12,6 +12,7 @@ from .templates.llm_agents import LLM, FastLLM, GuidedLLM, ReasoningLLM
 from .templates.random_agent import Random
 from .templates.reasoning_agent import ReasoningAgent
 from .templates.smolagents import SmolCodingAgent, SmolVisionAgent
+from .my_awesome_agent import MyAwesomeAgent
 
 load_dotenv()
 
@@ -46,4 +47,5 @@ __all__ = [
     "Recorder",
     "Playback",
     "AVAILABLE_AGENTS",
+    "MyAwesomeAgent",
 ]
